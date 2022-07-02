@@ -1,2 +1,2 @@
-# fx-rateCurrencyConvertor
+# fx-rateCurrencyConverter
 A simple currency convertor made using HTML, CSS and JavaScript, with a Exchange Rate REST API.
